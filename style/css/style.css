@@ -130,24 +130,15 @@ body {
 }
 
 
-
-
 /* Images */
- .images, .raindrop-image {
-  width: 100%; 
+.images,
+.raindrop-image,
+.logo-image,
+.about-image {
+  width: 100%;
   height: auto;
- }
-
-
- .logo-image {
- max-width: 500px;
- }
-
- .about-image {
- max-width: 300px;
-
+  max-width: 100%; 
 }
-
 
 
 /* Search box and button styles */
@@ -197,10 +188,61 @@ button {
 }
 
 
-/* Media Queries */
- @media (max-width: 768px) {
+/* Responsive adjustments */
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 0.9rem; 
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  body {
+    font-size: 0.8rem; 
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav li {
+    margin: 10px; 
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .content-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
   .content {
     flex: 0 0 100%;
     margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+
+
+@media only screen and (max-width: 480px) {
+  .content {
+    padding: 15px;
+  }
+}
+
+/* Responsive font size adjustments */
+@media only screen and (max-width: 768px) {
+  .image-section-text,
+  .header-container {
+    font-size: 1.2rem; 
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .image-section-text,
+  .header-container {
+    font-size: 1rem; 
   }
 }
