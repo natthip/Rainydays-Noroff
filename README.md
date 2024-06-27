@@ -1,18 +1,22 @@
-Welcome to my school assingment for Noroff - RainyDays  🌧️🧥
+# RainyDays 
 
-Rainy Days is a company dedicated to providing high-quality and stylish rain jackets to keep you dry and comfortable in any weather. Our rain jackets are designed with durability, functionality, and fashion in mind, making them the perfect choice for outdoor enthusiasts and urban dwellers alike.
-
-Features
-- Crafted with the finest materials for durability and longevity.
-- Stay dry even in the heaviest rain with our waterproof technology.
-- Our rain jackets blend fashion with functionality for a versatile look.
-- Available in a variety of sizes to suit every body type.
+<img width="1440" alt="Rainydays - skjermbilde" src="https://github.com/natthip/Rainydays-Noroff/assets/142994336/f9db86c8-ade0-4012-bbdb-475ccd0304c4">
 
 
+## Description
+This is my Project for Noroff Digital School
+The Project is to make an page for a store that sells rainjackets
 
-Home Button: Navigate back to the homepage from any section
-Sale: Se our january sale 
-Mens: See our latest rainjackets for men
-Woman: See our latest rainjackets for woman 
-About: Learn more about Rainydays, its mission, and the vision behind the brand
-Contact: contact information for the company
+## Built With
+- Github
+- Figma
+- vscode (html and css)
+  
+## Getting Started
+https://github.com/natthip/Rainydays-Noroff.git
+
+## Contact
+Feel free to reach out to me via:
+Email: Nathali.c@outlook.com
+
+LinkedIn: https://no.linkedin.com/in/nathali-marilyn-campos-866a8024a?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F
